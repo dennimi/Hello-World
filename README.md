@@ -4,6 +4,6 @@ Test program for Git HUb
 <html>
 <body>
 <h1>The End is Near</h1>
-<p>This a samnple of paragragh text placed beneath the h1 tag</p>
+<p>This a sample of paragragh text placed beneath the h1 tag</p>
 </body>
 </html>
